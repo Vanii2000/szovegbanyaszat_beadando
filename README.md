@@ -20,4 +20,19 @@
   Szabó-Tóth Regina: Szöveg-feldolgozás, Vizualizáció
 
   Összegzés és ajánlások közösen
+
+## Felhasznált adathalmaz
+  Amazon értékeléseket tartalmazó adathalmazt választottunk a Kaggle oldalról. Két fájl állt rendelkezésünkre: egy tanuló és egy teszt halmaz.
+
+  Mindkét csv fájl 3 oszlopot tartalmazott: 
+  
+    polarity - 1 a negatív és 2 a pozitív
+    
+    title - értékelés fejléce
+    
+    text - értékelés szövege
+    
+
+  Adathalmaz elérési link: https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews?resource=download
+  
 ## Összegzés és ajánlások
