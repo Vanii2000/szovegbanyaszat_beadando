@@ -36,6 +36,9 @@
   Adathalmaz elérési link: https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews?resource=download
   
 ## Összegzés és ajánlások
+A felhasznált adatbázis körülbelül 3.5 millió tanító és 1.5 teszt rekordot tartalmazott. Ezt mi technikai limitációk miatt lecsökkentettük 1 milló tanító és 150000 teszt adathalmazra a könnyebb kezelhetőség érdekében.
+Az adathalmazon adattisztítást végeztünk (pl. tokenizálás, különleges karakterek eltávolítása stb.), majd további felhasználásra és elemzésre eltároltuk őket csv fájlokban.
+
 A termékértékelések alapján a felhasználók 50.6%-a pozitívan értékelte a terméket, míg 49.4%-a negatívan. Ez az egyensúly azt jelzi, hogy a vásárlók véleménye megoszlik, és bár sokan elégedettek a termék vagy szolgáltatás teljesítményével, ugyanakkor számos kritikát is megfogalmaztak.
 
 Mivel mindkét típusú visszajelzés jelen van, érdemes folyamatosan monitorozni a felhasználói véleményeket, hogy észrevegyük a jövőbeli trendeket, és ennek megfelelően alakítsuk a termék jellemzőit és a szolgáltatási folyamatokat.
